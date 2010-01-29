@@ -33,7 +33,7 @@ Example
 		==  BlockedDomains: migrating ===========================================================
 		==  BlockedDomains: migrated (0.0020s) ==================================================
 
-	This adds the data migration version nubmer to the 'schema_migrations' table so it will not
+	This adds the data migration version number to the 'schema_migrations' table so it will not
 	be ran again.
 
 Copyright (c) 2009 Knetwit Inc, released under the MIT license
